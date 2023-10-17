@@ -1,4 +1,5 @@
 {
+  "charteredAccountants": [
       {
         "id": 1,
         "name": "Michael Jackson",
@@ -229,4 +230,5 @@
           "benefits": ["Enhanced sustainability", "Optimized financial health"]
         }
       }
+  ]
 }
